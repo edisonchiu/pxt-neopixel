@@ -15,15 +15,6 @@
     "testFiles": [
         "neotest.ts"
     ],
-    "yotta": {
-        "config": {
-            "microbit-dal": {
-                "bluetooth": {
-                    "enabled": 0
-                }
-            }
-        }
-    },
     "public": true,
     "installedVersion": "github:microsoft/pxt-neopixel#v0.6.2"
 }
